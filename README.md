@@ -1,5 +1,5 @@
 # License Plate Detection using OpenCV and Haar Cascade Classifier
-### Name: AALIYA FATHIMA
+### Name: AALIYA FATHIMA M
 ### Register Number: 212223230001
 ## Aim
 To implement a License Plate Detection system using OpenCV and Haar Cascade Classifier, draw bounding boxes, crop the detected region, and blur the license plate to improve privacy. The detection accuracy is improved by tuning Haar Cascade parameters.
